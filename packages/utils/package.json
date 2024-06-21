@@ -1,11 +1,9 @@
 {
-  "name": "@x-grid/components",
+  "name": "@x-grid/utils",
   "version": "0.0.0",
   "private": true,
   "type": "module",
   "main": "index.ts",
-  "scripts": {},
-  "dependencies": {},
   "peerDependencies": {
     "vue": "^3.4.29"
   }
