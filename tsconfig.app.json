@@ -10,7 +10,7 @@
     "baseUrl": ".",
     "rootDir": ".",
     "paths": {
-      "app": ["packages/x-grid/src"]
+      "@app": ["packages/x-grid/src"]
     }
   }
 }
