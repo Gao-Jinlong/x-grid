@@ -85,7 +85,11 @@ importers:
         specifier: ^3.4.29
         version: 3.4.29(typescript@5.4.5)
 
-  packages/utils: {}
+  packages/utils:
+    dependencies:
+      vue:
+        specifier: ^3.4.29
+        version: 3.4.29(typescript@5.4.5)
 
   packages/x-grid:
     dependencies:
